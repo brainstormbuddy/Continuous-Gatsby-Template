@@ -5,7 +5,7 @@ module.exports = {
     siteUrl: 'https://continuous.so/',
     author: `@Maksim`, 
   },
-  plugins: [
+  plugins: [  
     `gatsby-plugin-postcss`,
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-image`,
